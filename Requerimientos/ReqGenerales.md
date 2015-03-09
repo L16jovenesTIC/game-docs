@@ -52,6 +52,8 @@ Registro
   * Formulario datos básicos
     - nick
     - nombre
+    - Colegio
+    - Grado
     - Documento de identidad
     - Telefono de contacto
     - Correo electrónico de contacto
@@ -113,7 +115,7 @@ Gana monedas por:
       * 20                            +5
       * 50                            +15
       * 100                           +50
-      * 250                           +150
+      * 250                           +300
       * 500                           +500
       * 800                           +1000
 ```

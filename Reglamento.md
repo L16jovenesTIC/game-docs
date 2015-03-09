@@ -104,7 +104,7 @@ Se podrán adquirir monedas de la siguiente manera:
 	- Cuando el grupo haya resuelto 20 desafíos: 5 monedas
 	- Cuando el grupo haya resuelto 50 desafíos: 15 monedas
 	- Cuando el grupo haya resuelto 100 desafíos: 50 monedas
-	- Cuando el grupo haya resuelto 250 desafíos: 200 monedas
+	- Cuando el grupo haya resuelto 250 desafíos: 300 monedas
 	- Cuando el grupo haya resuelto 500 desafíos: 500 monedas
 	- Cuando el grupo haya resuelto 800 desafíos: 1000 monedas
 - Por tiempo de resolución de los desafíos:
