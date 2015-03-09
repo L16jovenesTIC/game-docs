@@ -108,6 +108,7 @@ Gana monedas por:
 
 - Reto de la semana                 **+10**
 - Número de retos resueltos
+```
       * 10                            +2
       * 20                            +5
       * 50                            +15
@@ -115,19 +116,22 @@ Gana monedas por:
       * 250                           +150
       * 500                           +500
       * 800                           +1000
+```
 
 - Tiempo en resolucíon de retos
+```
       * 24H                           +2
       * 72H                           +1
+```
 
 - Gasta monedas en
+```
       * Cambio de categoria               -2
       * Activar reto suspendido           -4
       * Cancelar un reto                  -15
       * Habilitar 6 reto por una vez      -20
       * Habilitar un 6 reto por siempre   -100
-
-
+```
 
 Estadísticas Globales
 ---------------------
