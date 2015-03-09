@@ -6,6 +6,12 @@ Objetivo
 
 Conquistar una UPZ mediante la solución de retos. El grupo con mayor número de retos resueltos será el ganador.
 
+Plataformas de desarrollo
+-------------------------
+
+* WEB
+* Android
+* iOS
 
 Actores
 -------
@@ -46,8 +52,11 @@ Registro
   * Formulario datos básicos
     - nick
     - nombre
-    - colegio
-    - grado
+    - Documento de identidad
+    - Telefono de contacto
+    - Correo electrónico de contacto
+    - Colegio
+    - Grado
 
   * Formulario encuesta
     -  Para el desarrollo de este juego necesitaras hacer usos de varias herramientas TIC, por lo que nos gustaria que nos respondieras estas preguntas:
@@ -103,7 +112,7 @@ Gana monedas por:
       * 20                            +5
       * 50                            +15
       * 100                           +50
-      * 250                           +300
+      * 250                           +150
       * 500                           +500
       * 800                           +1000
 
