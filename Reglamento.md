@@ -1,5 +1,5 @@
-REGLAMENTO DEL JUEGO XXXXXXXX
-=============================
+REGLAMENTO DEL JUEGO MYSTERY OF SUALL
+=====================================
 
 OBJETIVO
 --------
